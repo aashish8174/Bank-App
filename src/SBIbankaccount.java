@@ -1,2 +1,2 @@
-public class SBIbankaccount {
+public class SBIbankaccount implements BAnkaccount{
 }
