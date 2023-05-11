@@ -4,4 +4,5 @@ public interface BAnkaccount {
     //add money
     // check roi
     //current rate of interest
+    boolean withdrawMoney(int money);
 }
